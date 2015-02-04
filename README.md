@@ -6,6 +6,6 @@
 	* Copy file .json được export từ T2 rồi paste vào thư mục: ``` app/code/local/MST/Titan/sql/titantheme_setup/```
 	* T2 sẽ tự động import data sau đó xóa file json trên
 
-##T2 Theme Blank source code version 2.2.2015 
+####T2 Theme Blank source code version 2.2.2015 
 
-###Copyright by MAGEBAY.COM
+####Copyright by MAGEBAY.COM
