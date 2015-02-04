@@ -9,4 +9,4 @@
 	app/code/local/MST/Titan/sql/titantheme_setup/
 ####T2 Theme Blank source code version 2.2.2015 
 
-#### :copyright: Copyright by MAGEBAY.COM :copyright:
+#### :copyright: Copyright by [MAGEBAY.COM](http://magebay.com) :copyright:
