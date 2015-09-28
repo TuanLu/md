@@ -1,4 +1,4 @@
-# Titan Theme Framwork (T2 Theme)
+# Titan Theme Framwork (T2 Theme) - Just release new version this month
 
 ## Hưỡng dẫn cài đặt sample data khi cài T2
 
